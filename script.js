@@ -1,7 +1,7 @@
 const posswordBox = document.getElementById("passward");
 const length = 16;
 
-const cplatter = "ABCEDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
+const cplatter = "ABCEDEFGHIJKLMNOPQRSTUVWXYZ";
 const smlatter = "abcdefghijklmnopqrstuvwxyz";
 const numeric = "0123456789";
 const spsymbols = "!\"#$%&'()*+,-./:;<=>?[]";
